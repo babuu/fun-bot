@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cinch (2.1.0)
+    daybreak (0.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cinch
+  daybreak
